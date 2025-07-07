@@ -1,4 +1,4 @@
-md
+
 👋 Hi, I'm Nukala Venkata Ramana
 📌 About Me
 Hey there! I'm Venkat, a Fourth-year Electronics and Communication Engineering student at Marri Laxman Reddy Institute of Technology and Management with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
